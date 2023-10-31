@@ -35,6 +35,9 @@ The `bizcard.py` script serves as the main application file. It incorporates var
 - Developer: Rajashekhara S Gowda
 - Email: rajusgowda522000@gmail.com
 - LinkedIn: [Raju S Gowda](https://www.linkedin.com/in/raju-s-gowda-5f2000)
+  
+## LinkedIn Post
+link: https://www.linkedin.com/posts/raju-s-gowda-5f2000_bizcardx-guvi-dataanalysis-activity-7125004284986888192-_y1j?utm_source=share&utm_medium=member_desktop
 
 
 
